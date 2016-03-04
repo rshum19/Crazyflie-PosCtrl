@@ -1,0 +1,1 @@
+mex -v CFLAGS='$CFLAGS -fPIC' -L/home/rshu/Documents/crazyflie-client-matlab-master/CrazyFlie_lib -lcflie -lusb-1.0 sfun_cflie_simple.cpp
